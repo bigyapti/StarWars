@@ -46,3 +46,15 @@ Can also take reference from https://www.sfml-dev.org/tutorials/2.5/
 
 After all these setup simply run the program by adding code files to the project. 
 
+Menu:
+
+<img width="738" alt="Screenshot 2024-01-19 at 2 59 37 PM" src="https://github.com/bigyapti/StarWars/assets/69586215/ce03e2ed-cfc9-4640-8a63-364a8cd98ff8">
+
+Gameplay:
+
+<img width="984" alt="sw" src="https://github.com/bigyapti/StarWars/assets/69586215/52911ef4-e716-4cd3-b3c4-c4182aea0b7d">
+
+Game over:
+
+<img width="734" alt="Screenshot 2024-01-19 at 3 00 14 PM" src="https://github.com/bigyapti/StarWars/assets/69586215/7c7e41ca-8ff2-4b63-9b2b-6e2359d7d0fc">
+
